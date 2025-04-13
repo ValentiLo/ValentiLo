@@ -24,11 +24,15 @@ git add
 git commit
 ```
 **This is bold text**
+
 _This text is italicized_
 
 **This text is _extremely_ important**
+
 ***All this text is important***
+
 This is a <sub>subscript</sub> text
+
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 # Example headings
